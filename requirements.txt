@@ -1,0 +1,6 @@
+numpy
+tensorflow
+mtcnn
+flask
+pillow
+pip install -r requirements.txt
